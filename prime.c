@@ -1,6 +1,6 @@
 /*
- * Student : Tomas Zenoglio de Oliveira
- * Number : 2806290
+ * Student : 
+ * Number : 
  * Assignment : 3.3
  */
 #include <math.h>
